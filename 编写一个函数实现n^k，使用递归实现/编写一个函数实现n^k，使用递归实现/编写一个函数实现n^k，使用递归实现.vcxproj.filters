@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="三遍作业.c">
+    <ClCompile Include="编写一个函数实现n^k，使用递归实现.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
