@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "两个int（32位）整数m和n的二进制表达中，有多少个位(bit)不同？", "两个int（32位）整数m和n的二进制表达中，有多少个位(bit)不同？\两个int（32位）整数m和n的二进制表达中，有多少个位(bit)不同？.vcxproj", "{D8066E50-5346-410E-BAA3-5B4C18C0E8E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8066E50-5346-410E-BAA3-5B4C18C0E8E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8066E50-5346-410E-BAA3-5B4C18C0E8E6}.Debug|Win32.Build.0 = Debug|Win32
+		{D8066E50-5346-410E-BAA3-5B4C18C0E8E6}.Release|Win32.ActiveCfg = Release|Win32
+		{D8066E50-5346-410E-BAA3-5B4C18C0E8E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
