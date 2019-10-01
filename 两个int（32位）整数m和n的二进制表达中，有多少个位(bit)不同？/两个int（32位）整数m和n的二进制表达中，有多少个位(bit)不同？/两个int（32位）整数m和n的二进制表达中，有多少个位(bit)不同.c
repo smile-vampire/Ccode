@@ -1,4 +1,5 @@
 #include<stdio.h>
+//
 int ErJin(int m, int n)
 {
 	int count = 0;
