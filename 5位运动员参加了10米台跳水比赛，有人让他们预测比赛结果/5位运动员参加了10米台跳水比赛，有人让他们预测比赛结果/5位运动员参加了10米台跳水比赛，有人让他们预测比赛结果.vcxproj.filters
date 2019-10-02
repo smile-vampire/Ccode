@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="yk.c">
+    <ClCompile Include="5位运动员参加了10米台跳水比赛，有人让他们预测比赛结果 .c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
