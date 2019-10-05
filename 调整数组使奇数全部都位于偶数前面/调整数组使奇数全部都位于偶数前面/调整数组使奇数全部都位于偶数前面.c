@@ -1,5 +1,5 @@
 #include<stdio.h>
-//void Function(int arr[], int len)
+///void Function(int arr[], int len)
 //{
 //	int i = 0;
 //	int tmp = 0;
