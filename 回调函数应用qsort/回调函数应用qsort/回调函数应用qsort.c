@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 //void qsort( void *base, size_t num, size_t width, int (__cdecl *compare )(const void *elem1, const void *elem2 ) )函数原型；
-int _clpmnt(const void *p1, const void *p2)
+int _clpmnt(const void *p1, const void *p2)//比较p1.p2大小
 {
 	return *(int*)p1 - *(int*)p2;
 }
